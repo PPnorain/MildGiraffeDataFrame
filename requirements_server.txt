@@ -1,0 +1,6 @@
+aiohttp
+python-Levenshtein
+nltk
+rouge
+datasketch
+openai==1.78.1

@@ -1,0 +1,1 @@
+document.getElementById('logtext').readonly=true
